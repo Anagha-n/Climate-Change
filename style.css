@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+body{
+    font-family: 'Indie Flower', cursive;
+}
+div{
+    height:200px ;
+    width: 200px;
+    text-align: center;
+    padding: 2%;
+    margin: 2%;
+    display:inline-block;
+    border: 1px solid black;
+}
+img{
+    height: 50%;
+}
+#heading{
+    color: darkgreen;
+}
+.green-box{
+    background-color: lightgreen;
+}
